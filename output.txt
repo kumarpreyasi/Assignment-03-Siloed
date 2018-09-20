@@ -1,0 +1,6 @@
+/Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/bin/java "-javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=49760:/Applications/IntelliJ IDEA CE.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath /Users/preyasikumar/IdeaProjects/Silo/out/production/Silo Main
+There is a total of 183032.19 cubic meters of water available in the water towers in Keane, Utah.
+On average, 259264.33 cubic meters of water would be used by the people of Keane in 28 days.
+Each person will need to save 0.072331995 cubic meters or 19.112112076301884 gallons of water per day.
+
+Process finished with exit code 0
